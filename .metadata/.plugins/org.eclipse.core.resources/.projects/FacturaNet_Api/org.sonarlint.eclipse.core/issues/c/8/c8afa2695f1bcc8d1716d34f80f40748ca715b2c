@@ -1,0 +1,13 @@
+
+™squid:UselessImportCheck"ZRemove this unused import 'com.microsoft.localforwarder.library.inputs.contracts.Request'.(¶½z8ƒήΫΨ±-H'RMINORZ
+CODE_SMELL
+squid:S2293r"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ρ΄ΛϊÿÿÿÿHRMINORZ
+CODE_SMELL
+…squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦‘―χHRMINORZ
+CODE_SMELL
+…squid:S2293;"YReplace the type specification in this constructor call with the diamond operator ("<>").(ΫΖρίHRMINORZ
+CODE_SMELL
+†squid:S2293…"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦‘―χHRMINORZ
+CODE_SMELL
+…squid:S2293w"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦‘―χHRMINORZ
+CODE_SMELL

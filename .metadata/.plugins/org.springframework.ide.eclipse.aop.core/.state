@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="FacturaNet_Api"/>
+<aop-project name="FacturaNet_Web"/>
+<aop-project name="FacturaNet_Dominio"/>
+</aop-reference-model>
